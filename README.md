@@ -23,6 +23,7 @@
 
 ### 2. Hotel 97 : An online hotel booking website
 > visit website → https://hotel-97.web.app/
+
 > visit repo → https://github.com/MNaushad97/Hotel97
 
 <span>  <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelMobileHome.gif"  width="156" height="239.28" />  </span>
