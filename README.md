@@ -3,9 +3,12 @@
 ### I am a Front-End Developer
 
 
-I have 1+ years of hands-on experience with React.js and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
+**I have 1+ years of hands-on experience with React.js** and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## SKILLS & EXPERIENCE
+ * ⚛️ React.js
+
+
 
 [![Naushad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNaushad97)](https://github.com/anuraghazra/github-readme-stats)
 
