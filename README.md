@@ -10,7 +10,7 @@
  * 🗄️ Firebase
 
 
-<a href="https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf"  download="%20M%20Naushad.pdf" >Download Resume</a>
+[Download Resume](https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf)
 
 ## PROJECT EXPERIENCE 
 
