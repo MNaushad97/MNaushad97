@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ### My name is Naushad
 > I am a Front-End Developer
-![I am a Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front-End Developer](https://github.com/MNaushad97/MNaushad97/blob/main/TechBanner.png)
 
 I have 1+ years of hands-on experience with React.js and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
 
