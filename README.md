@@ -7,7 +7,10 @@
 
 ## SKILLS & EXPERIENCE
  * ⚛️ React.js
-
+ * 💻 Javascript | HTML | CSS 
+ * 📚 Tailwind CSS | Redux 
+ * 🗄️ Firebase
+ 
 
 
 [![Naushad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNaushad97)](https://github.com/anuraghazra/github-readme-stats)
