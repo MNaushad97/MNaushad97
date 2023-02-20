@@ -11,12 +11,11 @@
  * 📚 Tailwind CSS | Redux 
  * 🗄️ Firebase
  
+## PROJECT EXPERIENCE 
+### Hotel 97 : An online hotel booking website
+<img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelWebHome.gif" width="256" />
+<img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelMobileHome.gif" width="256" />
 
-
-[![Naushad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNaushad97)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![I am a Front-End Developer](https://github.com/MNaushad97/MNaushad97/blob/main/TechBanner.png)
 
 
 
