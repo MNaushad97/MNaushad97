@@ -16,7 +16,7 @@
 
 
 ### 1. [Disney97 : An OTT platform 🔗](https://disney97-1205e.web.app/)
-> visit repo → https://github.com/MNaushad97/Disney97
+> [→ visit repo](https://github.com/MNaushad97/Disney97)
 
 <span>  <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif" width="156" height="239.28" />  </span>
 <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyDynamicLink.gif" width="403" height="223" />
@@ -24,7 +24,7 @@
 
 
 ### 2. [Hotel 97 : An online hotel booking website 🔗](https://hotel-97.web.app/)
-> visit repo → https://github.com/MNaushad97/Hotel97
+> [→ visit repo](https://github.com/MNaushad97/Hotel97)
 
 <span>  <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelMobileHome.gif"  width="156" height="239.28" />  </span>
 <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelWebHome.gif" width="403" />
