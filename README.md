@@ -1,4 +1,4 @@
-## Hi 👋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
+## Hi 👋, my name is [NAUSHAD <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
     Front-End Developer
 
 **I have 1+ years of hands-on experience with React.js** and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
