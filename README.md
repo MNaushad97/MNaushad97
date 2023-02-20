@@ -1,7 +1,5 @@
 #### Hi there 👋,
-### My name is Naushad
-### I am a Front-End Developer
-
+### My name is Naushad (a Front-End Developer)
 
 **I have 1+ years of hands-on experience with React.js** and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
 
@@ -14,7 +12,7 @@
 ## PROJECT EXPERIENCE 
 
 
-### Disney97 : An OTT platform
+### 1. Disney97 : An OTT platform
 > visit → https://disney97-1205e.web.app/
 
 <span>  <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif" width="156" height="239.28" />  </span>
@@ -22,7 +20,7 @@
 
 
 
-### Hotel 97 : An online hotel booking website
+### 2. Hotel 97 : An online hotel booking website
 > visit → https://hotel-97.web.app/
 
 
