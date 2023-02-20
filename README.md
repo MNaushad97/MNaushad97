@@ -10,7 +10,7 @@
  * 🗄️ Firebase
 
 
-<a href="[https://octodex.github.com/images/minion.png](https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf)" title="Download" download>Download</a>
+<a href="https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf" title="Download" download>Download</a>
 
 ## PROJECT EXPERIENCE 
 
