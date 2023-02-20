@@ -18,7 +18,7 @@
 > visit → https://disney97-1205e.web.app/
 
 <span>  <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif" width="256"  />  </span>
-<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyDynamicLink.gif" width="456" />
+<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyDynamicLink.gif" width="403" />
 
 
 
