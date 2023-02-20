@@ -7,7 +7,7 @@ I have 1+ years of hands-on experience with React.js and have been involved in m
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+[![Naushad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNaushad97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
