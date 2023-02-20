@@ -11,7 +11,7 @@
 ## PROJECT EXPERIENCE 
 
 
-### 1. [Disney97 : An OTT platform 🔗 <img src="https://github.com/MNaushad97/MNaushad97/blob/main/click.png" width="40" height="40" />](https://disney97-1205e.web.app/)
+### 1. [Disney97 : An OTT platform 🔗](https://disney97-1205e.web.app/)
 > visit repo → https://github.com/MNaushad97/Disney97
 
 <span>  <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif" width="156" height="239.28" />  </span>
