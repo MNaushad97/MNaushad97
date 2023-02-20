@@ -28,7 +28,7 @@
 
 <span>  <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelMobileHome.gif"  width="156" height="239.28" />  </span>
 <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelWebHome.gif" width="403" />
-
+<span>  <img src="https://github.com/MNaushad97/Hotel97/blob/main/src/images/hotelMobileInput.gif"  width="156" height="239.28" />  </span>
 
 
 
