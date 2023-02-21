@@ -1,4 +1,5 @@
 [Download Resume](https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf)
+
 ### Hi ✋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
     
     Front-End Developer
@@ -11,9 +12,7 @@
  * 📚 Tailwind CSS | Redux 
  * 🗄️ Firebase
 
-
 ## PROJECT EXPERIENCE 
-
 
 ### 1. [Disney97 : An OTT platform 🔗](https://disney97-1205e.web.app/)
 > [→ visit repo](https://github.com/MNaushad97/Disney97)
