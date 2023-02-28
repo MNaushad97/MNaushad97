@@ -1,4 +1,4 @@
-<a href="https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf" download>Download Résumé</a>
+
 [Download Résumé](https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf)
 
 ### Hi ✋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
@@ -35,7 +35,7 @@
 
 <!--
 **MNaushad97/MNaushad97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf" download="Naushad's_Resume">Download Résumé</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
