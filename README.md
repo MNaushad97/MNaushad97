@@ -4,8 +4,8 @@
 
 **I have 1+ years of hands-on experience with React.js** and have been involved in making responsive SPAs for company as well as for personal projects. I am an organised and detail oriented self-starter who is always eager to learn new technologies.
 
-<details><summary>CLICK ME</summary>
-## SKILLS & COMPETENCES
+<details><summary>## SKILLS & COMPETENCES</summary>
+
  * ⚛️ React.js
  * 💻 Javascript | HTML | CSS 
  * 📚 Tailwind CSS | Redux 
