@@ -8,7 +8,7 @@ SKILLS & COMPETENCES
 
  * ⚛️ React.js 
  * 💻 Javascript | HTML | CSS 
- * 📚 Tailwind CSS | Redux | React Formik | React Query
+ * 📚 Tailwind CSS | Redux 
  * 🗄️ Firebase
 
 
