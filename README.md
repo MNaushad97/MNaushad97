@@ -6,7 +6,7 @@ I have **2+ years** of hands-on experience with **React.js** and have contribute
 
 SKILLS & COMPETENCES
 
- * ⚛️ React.js
+ * ⚛️ React.js | React Formik | React Query
  * 💻 Javascript | HTML | CSS 
  * 📚 Tailwind CSS | Redux 
  * 🗄️ Firebase
