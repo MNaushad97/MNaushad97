@@ -2,7 +2,7 @@
 ### Hi ✋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
 `Front-End Developer`
 
-I have **1+ years** of hands-on experience with **React.js** and have contributed to the development of Single Page Applications (SPAs) for both professional and personal projects. I am an organised, detail-oriented self-starter, consistently seeking to expand my knowledge and skillset with new technologies.
+I have **2+ years** of hands-on experience with **React.js** and have contributed to the development of Single Page Applications (SPAs) for both professional and personal projects. I am an organised, detail-oriented self-starter, consistently seeking to expand my knowledge and skillset with new technologies.
 
 SKILLS & COMPETENCES
 
