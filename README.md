@@ -1,4 +1,4 @@
-[View Résumé](https://github.com/MNaushad97/MNaushad97/blob/main/M%20Naushad.pdf)
+[View Résumé](https://github.com/MNaushad97/MNaushad97/blob/main/%20M%20Naushad.pdf)
 ### Hi ✋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
 `Front-End Developer`
 
