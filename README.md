@@ -2,7 +2,7 @@
 ### Hi ✋, my name is [Naushad <img src="https://github.com/MNaushad97/MNaushad97/blob/main/Li.png" width="40" height="40" />](https://www.linkedin.com/in/mnaushad97/)
 `Front-End Developer`
 
-I have **3+ years** of hands-on experience in React.js, have contributed to a wide range of professional and personal projects, delivering scalable and maintainable front-end solutions. I am an organised, detail-oriented self-starter with a strong commitment to continuous learning and staying current with new technologies.
+I have **4+ years** of hands-on experience in React.js, have contributed to a wide range of professional and personal projects, delivering scalable and maintainable front-end solutions. I am an organised, detail-oriented self-starter with a strong commitment to continuous learning and staying current with new technologies.
 
 SKILLS & COMPETENCES
 
